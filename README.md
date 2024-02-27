@@ -1,4 +1,4 @@
-# UseCloudAuth
+# useCloudAuth
 
 React hook for interacting with a backend using [cloud-auth](https://github.com/dayle-probably/cloud-auth).
 
