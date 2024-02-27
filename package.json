@@ -1,0 +1,33 @@
+{
+  "name": "@dayle-probably/use-cloud-auth",
+  "version": "1.0.0",
+  "description": "React hook for connecting to a backend using cloud-auth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dayle-probably/use-cloud-auth.git"
+  },
+  "keywords": [
+    "auth",
+    "jwt",
+    "react",
+    "cloud",
+    "dayle"
+  ],
+  "author": "Dayle Probably",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dayle-probably/use-cloud-auth/issues"
+  },
+  "homepage": "https://github.com/dayle-probably/use-cloud-auth#readme",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "wouter": "^3.0.1"
+  },
+  "peerDependencies": {
+    "react": "^18.2.0"
+  }
+}
